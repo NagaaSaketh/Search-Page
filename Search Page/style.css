@@ -1,0 +1,61 @@
+
+#x-btn{
+    position: absolute;
+    right: 2rem;
+    top: 0rem;
+}
+.heading{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+#head1{
+    border-left: 0.5px solid #2F2F30;
+    padding-left: 0.5rem;
+}
+.img1{
+    position: relative;
+    background-color: white;
+}
+.badge-info{
+    position: absolute;
+    border-radius: 0.8rem;
+    background-color:#61A2C8;
+    padding: 0.5rem 1rem;
+    color: white;
+}
+#banner-img{
+    background-image: url("imgs/unsplash_m_HRfLhgABo.png");
+    height: 55vh;
+    background-size: cover;
+}
+.date{
+    color: #9A9A9B;
+}
+.name{
+    background-image: linear-gradient(180deg, #444BAB 0%, #3E8EBC 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.blog-headings{
+    color:#4F516B;
+}
+.comp3{
+    display: flex;
+    justify-content: space-between;
+}
+.article{
+    width:30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.article{
+    position: relative;
+}
+.badge{
+    position: absolute;
+    bottom: 7.5rem;
+    right: 1rem;
+}
